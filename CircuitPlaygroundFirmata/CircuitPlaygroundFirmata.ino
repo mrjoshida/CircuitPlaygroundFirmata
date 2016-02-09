@@ -44,8 +44,8 @@
 #define I2C_REGISTER_NOT_SPECIFIED  -1
 
 // Circuit playground configuration:
-#define PIXEL_COUNT    10
-#define PIXEL_PIN      17
+#define PIXEL_COUNT    12
+#define PIXEL_PIN      12
 #define PIXEL_TYPE     NEO_GRB + NEO_KHZ800
 #define SPEAKER_PIN    5
 
